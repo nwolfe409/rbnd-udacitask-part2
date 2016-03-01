@@ -1,13 +1,20 @@
 # What you added to Udacitask 2.0
 # -------------------------------------------------------
 1. What is the gem of your choice and how did you use it?
+  I used the artii gem to display the title of the list 
+
 2. Describe the 2 features you added to the project.
-  a) Feature 1...
-  b) Feature 2...
+  a) added option to change priority
+  
+  b) added filter_by method to ask user which type to filter by
 
 # REFLECTIONS
 # -------------------------------------------------------
 1. How long did you spend working on this project?
+around 8 hours
 2. What was the most rewarding challenge you conquered?
+adding the option to take input back from user
 3. What two additional features did you build? Why?
+the ability to change the priority of an item to allow the list to be less static and the feature to ask the user which type to filter by. 
 4. Where do you still have room to grow?
+still piecing together object oriented programing and keeping all of the local and class varibles stright.
